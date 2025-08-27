@@ -4,14 +4,8 @@
 /* https://esmailkeyhan24.github.io/kaira-website/ */
 /* @import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap'); */
 @font-face {
-    font-family:Jost;
-    src: url(fonts/Jost-Regular.ttf);
-}
-:root{
-    --jostFont:Jost;
-}
-.fontStyle{
-    font-family: var(--jostFont);
+    font-family: marcellus;
+    src: url(fonts/Marcellus/Marcellus-Regular.ttf);
 }
 
 
